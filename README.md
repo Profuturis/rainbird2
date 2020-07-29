@@ -3,13 +3,11 @@ Home assistant component for second rainbird controller
 
 It is just a workaround to get second controller working
 
-Usage: just add rainbird2 folder to custom_components folder in Home Assistant config directory: #config_dir#/custom_components/rainbird2
+Usage: 
+just add rainbird2 folder to custom_components folder in Home Assistant config directory: #config_dir#/custom_components/rainbird2
 
 
-
-
-
-sample home assistant config:
+Sample home assistant config:
 
 
 rainbird:
